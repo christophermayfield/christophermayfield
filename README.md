@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Chris+Mayfield!+Welcome+to+my+profile)](https://git.io/typing-svg)
+## (https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Chris+Mayfield!+Welcome+to+my+profile)](https://git.io/typing-svg)
 
 <!--
 **christophermayfield/christophermayfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
