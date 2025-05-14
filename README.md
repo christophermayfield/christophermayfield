@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Engineer
+I'm a Software Engineer based in the Inland Empire. I'm passionate about AI and currently working on a foundation model to assit therapists in their work.
+Feel free to reach out! 
