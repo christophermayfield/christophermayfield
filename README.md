@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+I'm+Chris+Mayfield!+Welcome!)](https://git.io/typing-svg)
 
 
-I'm a Software Engineer based in the Inland Empire. I'm passionate about AI and currently working on a foundation model to assist therapists in their work.
+I'm a Therapist & Software Engineer based in the Inland Empire. I'm passionate about AI and currently working on a foundation model to assist therapists in their work.
 Feel free to reach out!!!
